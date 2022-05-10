@@ -1,0 +1,4 @@
+%% Brain Tumor Segmentation 
+
+1. Run final.m file 
+2. Select any one image from test images folder
